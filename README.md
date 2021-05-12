@@ -1,2 +1,2 @@
 # Netflix-Homepage
-Código da página inicial do Netflix
+Código em HTML da página inicial do Netflix.
